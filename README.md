@@ -9,7 +9,7 @@ View your remaining balance from thoska using your NFC-equipped Android phone!
 
 ## Thanks To
 
-* [Eric Butler][2] (Desfire Code)
+* [Eric Butler][2]
 * ...
 
 ## Supported Protocols
